@@ -1,0 +1,12 @@
+{
+  "numbers": [122, 222, 333]
+  , "colors": {
+      "bright": ["red", "pink", "yellow"]
+      , "dark": ["blue", "brown", "grey"]
+  }
+  , "name": "Pete"
+  , "buildings": {
+    "large": "factory"
+    , "small": "single-family home"
+  }
+}

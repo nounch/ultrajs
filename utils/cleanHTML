@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+tidy -i -w 80 -upper -c -utf8  -o ../res/html/data.clean.html ../res/html/data.html

@@ -1,0 +1,46 @@
+	[
+  {
+    "type": "Issue",
+    "_saved": true,
+    "id": "5B10128C-6F91-4D80-948F-69157FB4DF62",
+    "createdAt": "2012-11-30T07:11:35.345Z",
+    "updatedAt": null,
+    "title": "foo",
+    "description": "bar",
+    "data": null,
+    "_id": "50b85c27ac881bd15f000001"
+  },
+  {
+    "type": "Issue",
+    "_saved": true,
+    "id": "6CF63F4E-D54D-4EC0-B682-638168F87936",
+    "createdAt": "2012-11-30T07:11:42.233Z",
+    "updatedAt": null,
+    "title": "wwww",
+    "description": "wwww",
+    "data": null,
+    "_id": "50b85c2eac881bd15f000002"
+  },
+  {
+    "type": "Issue",
+    "_saved": true,
+    "id": "99B68182-FB67-4E38-8DA4-1B58769DB85B",
+    "createdAt": "2012-12-01T08:42:40.758Z",
+    "updatedAt": null,
+    "title": "Color",
+    "description": "cococococllor",
+    "data": null,
+    "_id": "50b9c30000edfa231c000001"
+  },
+  {
+    "type": "Issue",
+    "_saved": true,
+    "id": "AE582730-BCB2-4B7B-A2C5-4F1667C20178",
+    "createdAt": "2012-12-01T08:42:51.702Z",
+    "updatedAt": null,
+    "title": "Websites",
+    "description": "www",
+    "data": null,
+    "_id": "50b9c30b00edfa231c000002"
+  }
+]
