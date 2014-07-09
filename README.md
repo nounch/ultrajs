@@ -12,6 +12,8 @@ classes (`Array`, `Function`, `RegExp`, ...) can be altered. UltraJS
 also tries to automatically insert `<a>` tags for links and it allows
 to differentiate arrays from other objects.
 
+![Rendered Output](res/images/screenshot.png)
+
 ## Output
 
 ### Using `<div>` tags
